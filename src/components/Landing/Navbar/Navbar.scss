@@ -1,0 +1,29 @@
+.app__navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  padding: 1rem 2rem;
+}
+
+.app__navbar-logo {
+  display: flex;
+  align-items: center;
+}
+
+.app__navbar-links {
+
+}
+
+.app__navbar-list {
+  display: flex;
+  align-items: center;
+
+}
+
+.app__navbar-link {
+  font-size: 14px;
+  font-weight: 500;
+  
+}
