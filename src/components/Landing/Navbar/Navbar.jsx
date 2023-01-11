@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <div className='app__navbar'>
       <div className='app__navbar-logo'>
-        <img src={images.tooth1} />
+        <img src={images.Tooth} />
         <p>Dentalist.</p>
       </div>
 
